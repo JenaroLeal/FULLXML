@@ -1,0 +1,35 @@
+span
+{
+    color: blue;
+   
+display: inline-block;
+display: list-item;
+list-style: disc inside;
+margin-left: 20px;
+font-weight: bold;
+
+}
+
+p
+{
+color: blue; 
+display: list-item;
+list-style: disc inside;
+margin-left: 20px;
+font-weight: bold;
+ 
+
+}
+h2 
+{
+ 
+ color: black;   
+
+}
+
+u{
+
+  background-color: yellow;
+  color: black;
+     font-weight: bold;  
+}
